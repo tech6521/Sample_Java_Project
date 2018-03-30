@@ -1,4 +1,4 @@
-// 개발자: 박재원, 박재현
+// 개발자: 박재원, 박재현, 이은지
 // Simple Calculator ver1 개발 프로젝트 시작
 public class Calculator {
 

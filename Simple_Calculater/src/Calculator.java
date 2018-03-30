@@ -6,7 +6,8 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		System.out.println("Calculator");
 		System.out.println("hi");
-		System.out.println("하이루 방가방가");
+
+
 	}
 
 }
